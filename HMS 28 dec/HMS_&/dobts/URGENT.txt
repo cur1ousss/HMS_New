@@ -1,0 +1,9 @@
+#roominfosearch match fikeld name
+#searcjh many fikeld
+
+#how take in combo box mdoe update id ...
+# primaty key which chkutid or patid
+
+
+
+# aftr update why shown result set closed??

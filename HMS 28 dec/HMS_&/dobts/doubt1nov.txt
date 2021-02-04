@@ -1,0 +1,10 @@
+* roomid and roomnombre
+* how date minus 
+* how room nomber fetch
+* how relate roomno , roomtype in 2 forms
+* how check number of bed avai;able
+* how total all price in differernet forms finally at chekout
+* how data iinputed gets updated in mysql(???throyugh forsign key??)
+* how assiggn checout id
+
+

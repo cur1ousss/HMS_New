@@ -1,0 +1,5 @@
+regsitration and  roominfo
+=---------------- dono mein roomid comomon ghain
+
+regisration mein roomid	 store kaarana hain	 romnbr ke base pe
+roomnbr kje base par roomotyp apne aap select ho

@@ -1,0 +1,3 @@
+1.Create rsPatient in Patient Check and load patient names.
+2.In Room info Room Id will be entered in txtfield and room no will be entered from txtfield and room type will be entered from combobox.
+3.Delete room info search.

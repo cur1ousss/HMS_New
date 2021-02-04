@@ -1,0 +1,6 @@
+#id se name-- name se id
+#no. of beds remaining     incheckout check
+# relating id in mysql
+# checking rooms available
+# why alwatys delete possuibke in registrtain form
+#disseass type?
